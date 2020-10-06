@@ -1,7 +1,6 @@
 extern crate structopt;
 extern crate rand;
 extern crate unicode_segmentation;
-
 use structopt::StructOpt;
 use rand::Rng;
 use unicode_segmentation::UnicodeSegmentation;
